@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+
+.container{
+    height:100vh;
+    width:100%;
+    background-color: red;
+    background-image: url(./pexels-markusspiske-1089438.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-size:contain;
+}
+
+.content{
+    height: 200vh;
+    background-color: black;
+    /* background-attachment: fixed; */
+}
